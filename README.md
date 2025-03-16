@@ -1,6 +1,6 @@
 # DynaGSLAM_official
 
-This is the official implementation of **SplatSDF**.
+This is the official implementation of **DynaGSLAM**.
 ### [Project page](https://blarklee.github.io/dynagslam/) | [Paper](https://arxiv.org/abs/2411.15468/)
 
 ### Code coming soon!!!
