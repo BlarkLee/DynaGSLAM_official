@@ -1,7 +1,7 @@
 # DynaGSLAM_official
 
 This is the official implementation of **DynaGSLAM**.
-### [Project page](https://blarklee.github.io/dynagslam/) | [Paper](https://arxiv.org/abs/2411.15468/)
+### [Project page](https://blarklee.github.io/dynagslam/) | [Paper](https://arxiv.org/pdf/2503.11979)
 
 ### Code coming soon!!!
 
